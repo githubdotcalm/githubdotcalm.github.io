@@ -8,6 +8,9 @@
     .intro-header {
         margin: 0;
     }
+    .post-preview img {
+        max-width: 66.66666667%
+    }
 }
 
 footer {
